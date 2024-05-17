@@ -2,8 +2,7 @@
 
 Este é um projeto para integração com o Google Sheets, permitindo criar, inserir e modificar dados em uma planilha do Google Sheets. Além disso, também inclui implementações futuras para tornar o projeto mais dinâmico e versátil.
 
-![google-sheet](https://github.com/w-araujo/google-sheet-scripts
-/blob/main/spreadsheet.png)
+![google-sheet](https://github.com/w-araujo/google-sheet-scripts/blob/main/spreadsheet.png)
 
 ## 🛠️ Passo a Passo do Projeto
 
